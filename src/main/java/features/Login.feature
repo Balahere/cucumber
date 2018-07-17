@@ -8,6 +8,7 @@ And  	User enters username and password
 And 	User clicks on login button
 Then 	Login should be successful 
 Then 	User closes the browser
+Then    Close the program
   
 
 
