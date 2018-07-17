@@ -9,6 +9,8 @@ And 	User clicks on login button
 Then 	Login should be successful 
 Then 	User closes the browser
 Then    Close the program
+Then    done with cucumber
+
   
 
 
