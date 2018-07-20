@@ -7,11 +7,7 @@ When  	the title of page is Free CRM
 And  	User enters username and password
 And 	User clicks on login button
 Then 	Login should be successful 
-Then 	User closes the browser
-Then    Close the program
-Then    done with cucumber
-Then    Learnt coding 
-Then  	checking integration
+
   
 
 
