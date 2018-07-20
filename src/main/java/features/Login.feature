@@ -11,6 +11,7 @@ Then 	User closes the browser
 Then    Close the program
 Then    done with cucumber
 Then    Learnt coding 
+Then  	checking integration
   
 
 
